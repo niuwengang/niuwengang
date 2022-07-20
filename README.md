@@ -11,6 +11,6 @@
 
 ## 近期工作
 + [ligo 室外低成本激光惯导方案](github.com/niuwengang/ligo) 
-+ robomaster机甲大师人工智能挑战赛 
++ RoboMaster 2022机甲大师高校人工智能挑战赛
 
 
