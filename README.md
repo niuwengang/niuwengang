@@ -10,7 +10,7 @@
 + 技术交流: niu_wengang@163.com
 
 ## 近期工作
-+ [ligo 室外低成本激光惯导方案](github.com/niuwengang/ligo)&nbsp;&nbsp;&nbsp;&nbsp;2022/07-至今 成果:待定
-+ RoboMaster 2022机甲大师高校人工智能挑战赛&nbsp;&nbsp;&nbsp;&nbsp;2021/12-2022/05 成果:国际赛季军
++ [ligo 室外低成本激光惯导方案](github.com/niuwengang/ligo)&nbsp;&nbsp;&nbsp;&nbsp;2022/07-至今 
++ RoboMaster 2022机甲大师高校人工智能挑战赛&nbsp;&nbsp;&nbsp;&nbsp;2021/12-2022/05 
 
 
