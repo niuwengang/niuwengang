@@ -5,11 +5,12 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=niuwengang.visitor-badge)
 
 ## 自我介绍
-实验室: 东北大学TD-T机器人创新实验室 | 东北大学无人驾驶实验室 硕士研究生\
-研究方向: 多传感器融合定位 | 运动规划\
-技术交流: niu_wengang@163.com
++ 实验室: 东北大学TD-T机器人创新实验室 | 东北大学无人驾驶实验室 硕士研究生\
++ 研究方向: 多传感器融合定位 | 运动规划\
++ 技术交流: niu_wengang@163.com
 
 ## 近期工作
 + ligo 室外低成本激光惯导方案 
++ robomaster机甲大师人工智能挑战赛 
 
 
