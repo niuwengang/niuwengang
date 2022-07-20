@@ -5,8 +5,10 @@
 [![](https://visitor-badge.laobi.icu/badge?page_id=niuwengang.visitor-badge)](https://space.bilibili.com/356146260)
 
 ## 自我介绍
- 东北大学TD-T机器人创新实验室 | 东北大学无人驾驶实验室\
-多传感器融合定位 | 运动规划
+实验室: 东北大学TD-T机器人创新实验室 | 东北大学无人驾驶实验室\
+研究方向: 多传感器融合定位 | 运动规划
+
+
 
 
 
