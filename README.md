@@ -10,7 +10,7 @@
 + 技术交流: niu_wengang@163.com
 
 ## 近期工作
-+ ligo 室外低成本激光惯导方案 github.com/niuwengang/ligo 
++ [ligo 室外低成本激光惯导方案](github.com/niuwengang/ligo) 
 + robomaster机甲大师人工智能挑战赛 
 
 
