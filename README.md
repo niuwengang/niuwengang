@@ -5,7 +5,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=niuwengang.visitor-badge)
 
 ## 自我介绍
-+ 实验室: 东北大学TD-T机器人创新实验室 | 东北大学无人驾驶实验室 硕士研究生
++ 实验室: 东北大学智能车团队 | 东北大学TD-T机器人创新实验室 | 东北大学无人驾驶实验室 硕士研究生
 + 研究方向: 多传感器融合定位 | 运动规划
 + 技术交流: niu_wengang@163.com
 
