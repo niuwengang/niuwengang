@@ -11,7 +11,7 @@
 
 ## 近期工作
 + **室外低成本激光雷达惯导定位方案**&nbsp;&nbsp;&nbsp;&nbsp;2022/07-至今 
-+ **地平线旭日x3派开发测试**&nbsp;&nbsp;&nbsp;&nbsp;2022/07-2022/07 
-+ **RoboMaster 2022机甲大师高校人工智能挑战赛**&nbsp;&nbsp;&nbsp;&nbsp;2021/12-2022/05 
++ **海康威视EB435i相机ROS开发**&nbsp;&nbsp;&nbsp;&nbsp;2022/07-2022/07 
++ **RoboMaster 2022机甲大师高校人工智能挑战赛**&nbsp;&nbsp;&nbsp;&nbsp;2021/12-2022/05 (不开源)
 
 
