@@ -13,6 +13,6 @@
 ## 近期工作
 + **LIO GNSS融合**&nbsp;&nbsp;&nbsp;&nbsp;2022/07-至今 (后续开源)
 + **海康威视EB435i相机ROS开发**&nbsp;&nbsp;&nbsp;&nbsp;2022/07-2022/07 (后续开源)
-+ **RoboMaster 2022机甲大师高校人工智能挑战赛**&nbsp;&nbsp;&nbsp;&nbsp;2021/12-2022/05 (不开源)
++ **RoboMaster 2022机甲大师高校人工智能挑战赛 国际赛季军**&nbsp;&nbsp;&nbsp;&nbsp;2021/12-2022/05 (不开源)
 
 
