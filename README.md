@@ -19,9 +19,8 @@
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=niuwengang&theme=dark_lover" div align= "center" />
- </div>
 <img src="https://activity-graph.herokuapp.com/graph?username=niuwengang&theme=redical"  div align= "center" width = 100% height = 100%  />
-
+</div>
 
 
 
