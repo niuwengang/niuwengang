@@ -9,9 +9,7 @@
 + **研究方向:** 多传感器融合定位 | 规划决策
 + **技术交流:** niu_wengang@163.com
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=niuwengang&theme=redical" width=400 height=200>
-</p>
+
 
 ## 近期工作
 + **多传感器融合定位学习**2022/09至今 
@@ -19,4 +17,6 @@
 + **leetcode 刷题计划**2022/08至今 
 + **RoboMaster 2022机甲大师高校人工智能挑战赛 国际赛季军**&nbsp;&nbsp;&nbsp;&nbsp;2021/12-2022/05 
 
-
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=niuwengang&theme=redical" width=600 height=300>
+</p>
