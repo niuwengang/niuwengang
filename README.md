@@ -20,3 +20,6 @@
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=niuwengang&theme=redical" width=600 height=300>
 </p>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=niuwengang)](https://github.com/ryo-ma/github-profile-trophy)
