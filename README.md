@@ -22,4 +22,7 @@
 </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=niuwengang&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
+<p align = "center">
+<img src="https://github-profile-trophy.vercel.app/?username=niuwengang&theme=dark_lover" width=600 height=300>
+</p>
+
