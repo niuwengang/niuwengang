@@ -20,7 +20,7 @@
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=niuwengang&theme=dark_lover"  />
-<img src="https://activity-graph.herokuapp.com/graph?username=niuwengang&theme=redical"   width = "600 height ="200  />
+<img src="https://activity-graph.herokuapp.com/graph?username=niuwengang&theme=redical"   width = "800 height ="200  />
 </div>
 
 
