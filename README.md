@@ -18,11 +18,11 @@
 + **RoboMaster 2022机甲大师高校人工智能挑战赛 国际赛季军**&nbsp;&nbsp;&nbsp;&nbsp;2021/12-2022/05 
 
 <p align = "center">
+<img src="https://github-profile-trophy.vercel.app/?username=niuwengang&theme=dark_lover" width=600 height=300>
+</p>
+<p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=niuwengang&theme=redical" width=600 height=300>
 </p>
 
 
-<p align = "center">
-<img src="https://github-profile-trophy.vercel.app/?username=niuwengang&theme=dark_lover" width=600 height=300>
-</p>
 
