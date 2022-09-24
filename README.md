@@ -16,7 +16,7 @@
 + **fast lio系列代码解读**2022/09至今 
 + **leetcode 刷题计划**2022/08至今 
 + **RoboMaster 2022机甲大师高校人工智能挑战赛 国际赛季军**&nbsp;&nbsp;&nbsp;&nbsp;2021/12-2022/05 
-![](https://github-profile-trophy.vercel.app/?username=niuwengang&theme=dark_lover))
+![](https://github-profile-trophy.vercel.app/?username=niuwengang&theme=dark_lover#center)
 ![](https://activity-graph.herokuapp.com/graph?username=niuwengang&theme=redical)
 
 
