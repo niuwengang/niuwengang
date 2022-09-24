@@ -21,8 +21,8 @@
 
 ##
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=niuwengang&theme=dark_lover"  width ="2000p" height = "100px"   />
-  <img src="https://activity-graph.herokuapp.com/graph?username=niuwengang&theme=redical"    width ="2000" height = "200px" />
+<img src="https://github-profile-trophy.vercel.app/?username=niuwengang&theme=dark_lover"  width ="1000"    />
+  <img src="https://activity-graph.herokuapp.com/graph?username=niuwengang&theme=redical"     width ="1000"  />
 </div>
 
 
