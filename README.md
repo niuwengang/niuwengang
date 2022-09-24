@@ -10,7 +10,7 @@
 + **技术交流:** niu_wengang@163.com
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=niuwengang&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=niuwengang&theme=redical" width=400 height=200>
 </p>
 
 ## 近期工作
