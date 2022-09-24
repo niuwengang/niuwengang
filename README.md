@@ -9,6 +9,9 @@
 + **研究方向:** 多传感器融合定位 | 规划决策
 + **技术交流:** niu_wengang@163.com
 
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=niuwengang&theme=redical">
+</p>
 
 ## 近期工作
 + **多传感器融合定位学习**2022/09至今 
