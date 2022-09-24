@@ -17,8 +17,8 @@
 + **leetcode 刷题计划**2022/08至今 
 + **RoboMaster 2022机甲大师高校人工智能挑战赛 国际赛季军**&nbsp;&nbsp;&nbsp;&nbsp;2021/12-2022/05 
 
-<img src="https://github-profile-trophy.vercel.app/?username=niuwengang&theme=dark_lover" />
-<img src="https://activity-graph.herokuapp.com/graph?username=niuwengang&theme=redical" width = 30% height = 30% />
+<img src="https://github-profile-trophy.vercel.app/?username=niuwengang&theme=dark_lover" div align=center />
+<img src="https://activity-graph.herokuapp.com/graph?username=niuwengang&theme=redical" width = 100% height = 100% div align=center />
 
 
 
