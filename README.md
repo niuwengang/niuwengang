@@ -23,8 +23,8 @@
 
 ##
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=niuwengang&theme=dark_lover"  width ="6000"   height="50"  />
-<img src="https://activity-graph.herokuapp.com/graph?username=niuwengang&theme=redical"   width ="6000"   height="100" />
+<img src="https://github-profile-trophy.vercel.app/?username=niuwengang&theme=dark_lover"  width ="%600"   height="50"  />
+<img src="https://activity-graph.herokuapp.com/graph?username=niuwengang&theme=redical"   width ="%600"   height="100" />
 </div>
 
 
