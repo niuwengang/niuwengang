@@ -17,8 +17,9 @@
 ##
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=niuwengang&theme=dark_lover"  width = "500px"    />
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=niuwengang&theme=xcode" /> </div>
+<img src="https://github-profile-trophy.vercel.app/?username=niuwengang&theme=dark_lover"  width = "500px"    />   
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
  
 
 
