@@ -18,7 +18,7 @@
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=niuwengang&theme=dark_lover"  width = "500px"    />     
-![](https://raw.githubusercontent.com/shihuili1218/shihuili1218/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/niuwengang/niuwengang/output/github-contribution-grid-snake.svg)
  
 
 
