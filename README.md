@@ -18,7 +18,7 @@
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=niuwengang&theme=dark_lover"  width = "500px"    />        
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=niuwengang&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
