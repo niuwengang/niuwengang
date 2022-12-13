@@ -11,8 +11,8 @@
 + **技术交流:** niu_wengang@163.com
 
 ## 近期工作
-+ **多传感器融合定位学习** &nbsp;&nbsp;&nbsp;&nbsp;2022/09-至今
-+ **RoboMaster 2022机甲大师高校人工智能挑战赛 国际赛季军**&nbsp;&nbsp;&nbsp;&nbsp;2021/12-2022/05 
++ **开源项目: 多传感器融合定位学习** &nbsp;&nbsp;&nbsp;&nbsp;2022/09-至今
++ **机器人竞赛: RoboMaster 2022机甲大师高校人工智能挑战赛 国际赛季军**&nbsp;&nbsp;&nbsp;&nbsp;2021/12-2022/05 
 
 ##
 
