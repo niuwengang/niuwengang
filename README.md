@@ -21,8 +21,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=niuwengang&theme=dark_lover"  width = "500px"    />        
 
 
-<div align="center">
-  <img  src="https://activity-graph.herokuapp.com/graph?username=niuwengang" />
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
