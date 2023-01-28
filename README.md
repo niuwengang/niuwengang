@@ -19,5 +19,5 @@
 
 
   <img src="https://github-profile-trophy.vercel.app/?username=niuwengang&theme=dark_lover"  width = "600px"    />        
-  <img  src="https://github-readme-activity-graph.cyclic.app/graph?username=niuwengang"   width = "600px" />
+  <img  src="https://github-readme-activity-graph.cyclic.app/graph?username=niuwengang&theme=vue"   width = "600px" />
 
