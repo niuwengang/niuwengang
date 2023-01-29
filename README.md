@@ -16,7 +16,7 @@
 + **Github开源项目: [多传感器融合定位方案 GLINS](https://github.com/niuwengang/GLINS)** &nbsp;&nbsp;&nbsp;&nbsp;2022/09-至今
 + **机器人领域竞赛: [RoboMaster 2022机甲大师高校人工智能挑战赛 国际赛季军](https://www.robomaster.com/zh-CN/resource/pages/announcement/1454)**&nbsp;&nbsp;&nbsp;&nbsp;2021/12-2022/05 
 
-##+
+##
 
 
   <img src="https://github-profile-trophy.vercel.app/?username=niuwengang&theme=dark_lover"  width = "600px"    />        
