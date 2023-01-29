@@ -17,7 +17,8 @@
 + **机器人领域竞赛: [RoboMaster 2022机甲大师高校人工智能挑战赛 国际赛季军](https://www.robomaster.com/zh-CN/resource/pages/announcement/1454)**&nbsp;&nbsp;&nbsp;&nbsp;2021/12-2022/05 
 
 ## 开源解析
-+ **[VINS_noted](https://github.com/niuwengang/VIO_Android)** 
++ **[VINS](https://github.com/niuwengang/VINS_noted)** 
++ **[]()**
 
 ##
 
