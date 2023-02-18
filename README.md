@@ -12,7 +12,6 @@
 
 ## 近期工作
 + **Github开源项目: [智能无人机 MOSS](https://github.com/niuwengang/Moss_Quadrotor)**&nbsp;&nbsp;&nbsp;&nbsp;2022/02-至今
-+ **Github开源项目: [移动端定位 VIO_Android](https://github.com/niuwengang/VIO_Android)** &nbsp;&nbsp;&nbsp;&nbsp;2022/02-至今
 + **Github开源项目: [我的SLAM wiki知识库](https://github.com/niuwengang/my_slam_wiki)** &nbsp;&nbsp;&nbsp;&nbsp;2022/12-至今
 + **Github开源项目: [多传感器融合定位方案 GLINS](https://github.com/niuwengang/GLINS)** &nbsp;&nbsp;&nbsp;&nbsp;2022/09-至今
 + **机器人领域竞赛: [RoboMaster 2022机甲大师高校人工智能挑战赛 国际赛季军](https://www.robomaster.com/zh-CN/resource/pages/announcement/1454)**&nbsp;&nbsp;&nbsp;&nbsp;2021/12-2023/05 
