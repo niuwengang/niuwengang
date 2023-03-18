@@ -13,7 +13,7 @@
 ## 近期工作
 + **机器人领域竞赛: [RoboMaster 2023  无人飞行器智能感知技术竞赛  T-DT战队 ]()**&nbsp;&nbsp;&nbsp;&nbsp;2023/02-2023/11
 + **Github开源项目: [我的SLAM wiki知识库](https://github.com/niuwengang/my_slam_wiki)** &nbsp;&nbsp;&nbsp;&nbsp;2022/12-至今
-+ **Github开源项目: [AlkaidQuadrotor:自主飞行无人机](https://github.com/niuwengang/AlkaidQuadrotor)** &nbsp;&nbsp;&nbsp;&nbsp;2022/09-至今
++ **Github开源项目: [AlkaidQuadrotor:一种多传感器融合定位的小型自主飞行无人机](https://github.com/niuwengang/AlkaidQuadrotor)** &nbsp;&nbsp;&nbsp;&nbsp;2022/09-至今
 + **机器人领域竞赛: [RoboMaster 2022机甲大师高校人工智能挑战赛 摇光战队 国际赛季军](https://www.robomaster.com/zh-CN/resource/pages/announcement/1454)**&nbsp;&nbsp;&nbsp;&nbsp;2021/12-2023/05 
 
 ## 开源解析
