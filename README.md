@@ -13,13 +13,13 @@
 
 
 
-[![Stargazers over time](https://starchart.cc/niuwengang/AlkaidQuadrotor.svg)](https://starchart.cc/niuwengang/AlkaidQuadrotor)
+
 
 
 
 
 ##
-  <img src="(https://starchart.cc/niuwengang/AlkaidQuadrotor.svg"  width = "600px"    />        
+  <img src="https://starchart.cc/niuwengang/AlkaidQuadrotor"  width = "600px"    />        
 
   <img src="https://github-profile-trophy.vercel.app/?username=niuwengang&theme=dark_lover"  width = "600px"    />        
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=niuwengang"  width = "600px"    />        
