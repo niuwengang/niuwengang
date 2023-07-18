@@ -12,7 +12,10 @@
 ## 近期工作
 
 
-## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/niuwengang/AlkaidQuadrotor.svg)](https://starchart.cc/niuwengang/AlkaidQuadrotor)
+
+
 
 
 ##
