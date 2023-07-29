@@ -6,7 +6,6 @@
 
 ## Personal Profile
 + **university:** Northeastern University (China)
-
 + **Interest:** planning and slam.
 + **contact:** niu_wengang@163.com
 
