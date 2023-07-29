@@ -1,4 +1,4 @@
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="35px"> ***机器人工程师***  
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="35px"> ***Robotics Engineer.***  
 
 
 [![](https://img.shields.io/badge/Bilibili-robotics%E6%B8%AF-brightgreen)](https://space.bilibili.com/356146260)
