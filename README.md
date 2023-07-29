@@ -11,15 +11,10 @@
 ## 近期工作
 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=niuwengang/SimpleRoadMap,niuwengang/AlkaidQuadrotor&type=Date)](https://star-history.com/#niuwengang/SimpleRoadMap&niuwengang/AlkaidQuadrotor&Date)
-
-<style>
-    img[alt="[Star History Chart](https://api.star-history.com/svg?repos=niuwengang/SimpleRoadMap,niuwengang/AlkaidQuadrotor&type=Date)]"]{
-        width:100px;
-    }
-</style>
 
 
+
+  <img src="https://star-history.com/#niuwengang/SimpleRoadMap&niuwengang/AlkaidQuadrotor&Date"  width = "600px"    />        
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=niuwengang"  width = "600px"    />        
   
