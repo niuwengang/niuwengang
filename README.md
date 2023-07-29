@@ -11,10 +11,13 @@
 
 ## 近期工作
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=niuwengang/SimpleRoadMap,niuwengang/AlkaidQuadrotor&type=Date)](https://star-history.com/#niuwengang/SimpleRoadMap&niuwengang/AlkaidQuadrotor&Date)
 
 
 
-  <img src="https://star-history.com/#niuwengang/SimpleRoadMap&niuwengang/AlkaidQuadrotor&Date"  width = "600px"    />        
+
 
 
   <img src="https://starchart.cc/niuwengang/AlkaidQuadrotor.svg"  width = "600px"    />        
