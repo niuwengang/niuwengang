@@ -5,7 +5,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=niuwengang.visitor-badge)
 
 ## Personal Profile
-+ **研究方向:** 机器人及自动驾驶算法
++ **Interests:** planning and slam.
 + **技术交流:** niu_wengang@163.com
 
 
