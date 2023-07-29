@@ -8,14 +8,11 @@
 + **研究方向:** 机器人及自动驾驶算法
 + **技术交流:** niu_wengang@163.com
 
-## 近期工作
 
 
 ## Star History
-
-
-
 <img src="https://api.star-history.com/svg?repos=niuwengang/SimpleRoadMap,niuwengang/AlkaidQuadrotor&type=Date"  width = "600px"    />    
 
+## Commit History
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=niuwengang&theme=tokyo-night"  width = "600px"    />        
   
