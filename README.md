@@ -13,6 +13,11 @@
 
 [![Star History Chart](https://api.star-history.com/svg?repos=niuwengang/SimpleRoadMap,niuwengang/AlkaidQuadrotor&type=Date)](https://star-history.com/#niuwengang/SimpleRoadMap&niuwengang/AlkaidQuadrotor&Date)
 
+<style>
+    img[alt="Star History Chart"]{
+        width:100px;
+    }
+</style>
 
 
 
