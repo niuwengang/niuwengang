@@ -2,7 +2,6 @@
 
 
 [![](https://img.shields.io/badge/Bilibili-robotics%E6%B8%AF-brightgreen)](https://space.bilibili.com/356146260)
-[![](https://img.shields.io/badge/CSDN%E5%8D%9A%E5%AE%A2-robotics%E6%B8%AF-brightgreen)](https://blog.csdn.net/weixin_37684239?type=blog)
 ![](https://visitor-badge.laobi.icu/badge?page_id=niuwengang.visitor-badge)
 
 ## 自我介绍
