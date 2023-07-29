@@ -6,7 +6,7 @@
 
 ## Personal Profile
 + **Interests:** planning and slam.
-+ **技术交流:** niu_wengang@163.com
++ **contact:** niu_wengang@163.com
 
 
 
