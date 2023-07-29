@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Bilibili-robotics%E6%B8%AF-brightgreen)](https://space.bilibili.com/356146260)
 ![](https://visitor-badge.laobi.icu/badge?page_id=niuwengang.visitor-badge)
 
-## 自我介绍
+## Personal Profile
 + **研究方向:** 机器人及自动驾驶算法
 + **技术交流:** niu_wengang@163.com
 
