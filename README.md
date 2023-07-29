@@ -13,6 +13,6 @@
 ## Star History
 <img src="https://api.star-history.com/svg?repos=niuwengang/SimpleRoadMap,niuwengang/AlkaidQuadrotor&type=Date"  width = "600px"    />    
 
-## Commit History
+## Commit Graph
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=niuwengang&theme=tokyo-night"  width = "600px"    />        
   
