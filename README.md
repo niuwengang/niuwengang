@@ -5,7 +5,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=niuwengang.visitor-badge)
 
 ## Personal Profile
-+ **Interests:** planning and slam.
++ **Interest:** planning and slam.
 + **contact:** niu_wengang@163.com
 
 
