@@ -6,7 +6,7 @@
 
 ## Personal Profile
 + **university:** Northeastern University (China)
-+ **Interest:** planning and slam.
++ **Interest:** Autonomous driving algorithms and engineering
 + **contact:** niu_wengang@163.com
 
 
