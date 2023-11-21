@@ -5,9 +5,9 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=niuwengang.visitor-badge)
 
 ## Personal Profile
-+ **university:** Northeastern University (China)
-+ **Interest:** Autonomous driving algorithms and engineering
-+ **contact:** niu_wengang@163.com
++ **university:**  Northeastern University (China)
++ **Interest:**  Autonomous driving algorithms and engineering
++ **contact:**  niu_wengang@163.com
 
 
 ## Star History
