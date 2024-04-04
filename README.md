@@ -8,7 +8,7 @@
 + **university:**  Northeastern University (China)
 + **Interest:**  Autonomous driving algorithms and engineering
 + **contact:**  niu_wengang@163.com
-+ **Company:**  Xiaomi 
++ **Company:**  Xiaomi - Car Department
 
 
 ## Star History
