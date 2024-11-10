@@ -9,10 +9,6 @@
 + **contact:**  niu_wengang@163.com
 
 
-
-## Star History
-<img src="https://api.star-history.com/svg?repos=niuwengang/SimpleUrbanNOA&type=Date"  width = "600px"    />    
-
 ## Commit Graph
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=niuwengang&theme=tokyo-night"  width = "600px"    />        
   
